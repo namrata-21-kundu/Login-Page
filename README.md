@@ -13,6 +13,4 @@ A simple and responsive login form built with HTML and CSS. The form features a 
 - CSS3
 
 ## How to Use
-1. Clone or download this repository.
-2. Open `index.html` in your preferred browser.
-3. Customize styles by editing `style.css`.
+login-page-xi-ten.vercel.app
