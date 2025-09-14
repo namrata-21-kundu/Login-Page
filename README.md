@@ -13,4 +13,4 @@ A simple and responsive login form built with HTML and CSS. The form features a 
 - CSS3
 
 ## How to Use
-Copy : [login-page-xi-ten.vercel.app](https://login-page-xi-ten.vercel.app/)
+ [login-page-xi-ten.vercel.app](https://login-page-xi-ten.vercel.app/)
